@@ -1,0 +1,6 @@
+{
+	"year": "2019",
+	"without_genres": [35,99,18,10751,10402,10749,10770],
+	"output_file": "movies.csv",
+	"_comment_omitted_genres": "No Comedy, Documentary, Drama, Family, Music, Romance, or TV Movie. See https://developers.themoviedb.org/3/genres/get-movie-list"
+}
